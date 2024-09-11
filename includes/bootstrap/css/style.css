@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding : 30px;
+    letter-spacing: 3px;
+}
+
+form{
+    margin-top: 30px;
+    padding: 0px 100px;
+}
+
+.button{
+    text-align: center;
+    color:aquamarine;
+    padding: 0px 200px 200px;
+
+}
+
+h4{
+    text-align: center;
+    color: red;
+}
+
+
+h2{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    padding : 30px;
+    letter-spacing: 3px;
+}
